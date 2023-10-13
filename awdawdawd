@@ -1,0 +1,3 @@
+white wait() do
+print("frijkandelbroodje")
+end
